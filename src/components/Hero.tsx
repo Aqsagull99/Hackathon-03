@@ -66,7 +66,7 @@ export default function Hero()  {
           <Image
             priority
            
-            src="/star/Bigstar.png"
+            src="/star/bigstar.png"
             alt={"image"}
             height={104}
             width={104}
